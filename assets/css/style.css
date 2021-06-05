@@ -1,0 +1,10 @@
+
+
+input:invalid {
+    border-color: purple;
+  }
+
+input:valid {
+    border-color: green;
+}  
+
